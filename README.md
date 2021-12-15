@@ -1,4 +1,4 @@
-# hello-nginx
+# hello-nginx (with Docker Compose)
 <br/>
 1) Instalar Docker
 <br/>
